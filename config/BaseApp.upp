@@ -1,8 +1,0 @@
-description "BaseApp - Minimal U++ Application"
-
-file
-    ../src/main.cpp
-
-uses
-    Core
-    CtrlLib

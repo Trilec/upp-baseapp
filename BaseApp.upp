@@ -1,0 +1,13 @@
+uses
+    Core;
+    CtrlCore;
+    CtrlLib;
+
+file
+    ui/MainLayout.lay
+    include/UppWebSocket.h
+    src/UppWebSocket.cpp
+    src/main.cpp
+
+mainconfig
+    "" = "GUI MT";
